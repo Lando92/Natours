@@ -6,6 +6,17 @@ It's a website, unlike a landing page, for a fictional company that offers tours
 * CSS3
 * Sass (SCSS)
 
+## Installing Dependencies
+
+```shell
+npm install
+```
+## Run Project
+
+```shell
+npm run start
+```
+
 ## Acknowledgement
 This repo contains the files for a project that is part of the Udemy course:
 > Advanced CSS and SASS: Flexbox, Grid, Animations and More!  
